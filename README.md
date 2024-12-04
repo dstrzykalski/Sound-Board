@@ -18,27 +18,11 @@ Sound-Board is a simple application that allows users to play various sound effe
    git clone https://github.com/yourusername/Sound-Board.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd Sound-Board
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
+2. Launch or Change as needed
 
 ## Usage
 
-1. Start the application:
-
-   ```bash
-   npm start
-   ```
-
-2. Open your web browser and go to `http://localhost:3000`
+Simply click the deployed link or view the source code with a live server.
 
 ## Contributing
 
